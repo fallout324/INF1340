@@ -1,0 +1,1 @@
+This is a python project that shows the four main types of analysis: descriptive, diagnostic, predictive, and prescriptive analysis. It utilizes these concepts to analyze data pertaining restaurant reviews and uses graphs to exemplify this data.
